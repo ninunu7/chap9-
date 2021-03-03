@@ -28,6 +28,8 @@ main {
   position: absolute;
   width: 50px;
   height: 30px;
+  text-align: center;
+  line-height: 30px;
   color: white;
   background-color: #ff9a4b;
 }
@@ -52,11 +54,11 @@ main {
 }
 
 .title {
-  margin: 15px 5px 5px;
+  padding: 5px 10px;
 }
 
 p {
-  margin: 0 5px;
+  padding: 0 10px;
 }
 
 footer {
